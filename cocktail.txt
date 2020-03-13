@@ -1,0 +1,286 @@
+{strIngredient14:None}{strIngredient3:None}{strIngredient9:None}{strInstructions:1. Fill a rocks glass with ice 2.add white creme de cacao and vodka 3.stir}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Creme de Cacao}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Vodka}{strIngredient10:None}{strIngredient6:None}{strDrink:'57 Chevy with a White License Plate}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Vodka}{strIngredient9:None}{strInstructions:Blend with ice. Serve in a wine glass. Garnish with carrot.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Dark rum}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Orange juice}{strIngredient2:Light rum}{strIngredient10:None}{strIngredient6:None}{strDrink:155 Belmont}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Cranberry Juice}{strIngredient9:None}{strInstructions:Fill a Collins glass with ice.
+Pour in vodka, lime cordial, and cranberry juice.
+Fill up with Sprite.
+Garnish with a Lime wheel or some cranberries}{strIngredient7:}{strIngredient12:None}{strIngredient1:Vodka}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Sprite}{strIngredient2:Roses sweetened lime juice}{strIngredient10:None}{strIngredient6:}{strDrink:747 Drink}{strIngredient5:}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Strawberry liqueur}{strIngredient9:None}{strInstructions:Combine all ingredients in glass mixer. Chill and strain into Cocktail glass. Garnish with sliced strawberry.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Absolut Citron}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Orange juice}{strIngredient2:Orange Curacao}{strIngredient10:None}{strIngredient6:None}{strDrink:9 1/2 Weeks}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Orange juice}{strIngredient9:None}{strInstructions:Shaken, not stirred!}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Vodka}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Cranberry juice}{strIngredient2:Peach schnapps}{strIngredient10:None}{strIngredient6:None}{strDrink:A Gilligan's Island}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Ice}{strIngredient9:None}{strInstructions:Rub the rim of an old fashioned glass with lemon, and dip repeatedly into granulated sugar until it has a good "frosted" rim. Shake a jigger of Amaretto with the juice of 1/2 a lemon. Strain into glass and add ice. Garnish with a Marachino Cherry.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Amaretto}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Maraschino cherry}{strIngredient2:Lemon}{strIngredient10:None}{strIngredient6:None}{strDrink:A True Amaretto Sour}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Vodka}{strIngredient9:None}{strInstructions:shake vigorously}{strIngredient7:None}{strIngredient12:None}{strIngredient1:White Creme de Menthe}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Hot chocolate}{strIngredient2:Southern Comfort}{strIngredient10:None}{strIngredient6:None}{strDrink:A.D.M. (After Dinner Mint)}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Lemon Juice}{strIngredient9:None}{strInstructions:Pour all ingredients into a cocktail shaker, mix and serve over ice into a chilled glass.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Gin}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Grenadine}{strIngredient2:Grand Marnier}{strIngredient10:None}{strIngredient6:None}{strDrink:A1}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Orange Juice}{strIngredient9:None}{strInstructions:Put all ingredients into a shaker and mix, then strain contents into a chilled cocktail glass.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Gin}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Angostura Bitters}{strIngredient2:Sweet Vermouth}{strIngredient10:None}{strIngredient6:None}{strDrink:Abbey Martini}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Sprite}{strIngredient9:None}{strInstructions:Add all ingredients except lemon to shaker filled with ice. Cover and shake vigorously. Strain contents into ice filled collins glass. Garnish with lemon.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Absolut Citron}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Soda water}{strIngredient2:Sweet and sour}{strIngredient10:None}{strIngredient6:None}{strDrink:Absolut Summertime}{strIngredient5:Lemon}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Champagne}{strIngredient9:None}{strInstructions:Mix the Vodka and Cranberry juice together in a shaker and strain into a glass. Top up with Champagne.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Vodka}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Cranberry Juice}{strIngredient10:None}{strIngredient6:None}{strDrink:Absolutely Fabulous}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Triple sec}{strIngredient9:None}{strInstructions:Shake it up it tasts better that way, but you can stir it if you want. 6 of those and you will be wasted for the rest of the night.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Absolut Citron}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Ginger ale}{strIngredient2:Orange juice}{strIngredient10:None}{strIngredient6:None}{strDrink:Absolutly Screwed Up}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Heavy cream}{strIngredient9:None}{strInstructions:Shake all the ingredients in a cocktail shaker and ice then strain in a cold glass.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Gin}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Milk}{strIngredient2:Grenadine}{strIngredient10:None}{strIngredient6:None}{strDrink:Ace}{strIngredient5:Egg White}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Creme de Cassis}{strIngredient9:None}{strInstructions:Shake together all the ingredients and strain into a cold glass.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Gin}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Fresh Lemon Juice}{strIngredient2:Cognac}{strIngredient10:None}{strIngredient6:None}{strDrink:Adam & Eve}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Soda Water}{strIngredient9:None}{strInstructions:Mix both the vermouth's in a shaker and strain into a cold glass. Top up with a squirt of Soda Water. }{strIngredient7:None}{strIngredient12:None}{strIngredient1:Sweet Vermouth}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Dry Vermouth}{strIngredient10:None}{strIngredient6:None}{strDrink:Addington}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:None}{strIngredient9:None}{strInstructions:Shake together all the ingredients and strain into a cold glass.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Gin}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Vermouth}{strIngredient10:None}{strIngredient6:None}{strDrink:Addison}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Orange juice}{strIngredient9:None}{strInstructions:Combine ingredients in the order listed into a shaker. Fill half full with ice and shake well. Strain into glass with ice and garnish with a cherry and orange wedge.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Vodka}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Grenadine}{strIngredient10:None}{strIngredient6:None}{strDrink:Addison Special}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Cognac}{strIngredient9:None}{strInstructions:Shake together all the ingredients and strain into a cold glass.}{strIngredient7:Water}{strIngredient12:None}{strIngredient1:Rum}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Gin}{strIngredient2:Dry Vermouth}{strIngredient10:None}{strIngredient6:Sugar Syrup}{strDrink:Adios Amigos Cocktail}{strIngredient5:Fresh Lime Juice}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Pineapple juice}{strIngredient9:None}{strInstructions:Mix. Serve over ice.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Grenadine}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Orange juice}{strIngredient10:None}{strIngredient6:None}{strDrink:Afterglow}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Pineapple juice}{strIngredient9:None}{strInstructions:Shake well, strain into a large cocktail glass.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Grenadine}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Cream}{strIngredient2:Orange juice}{strIngredient10:None}{strIngredient6:None}{strDrink:Alice Cocktail}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:White Wine}{strIngredient9:None}{strInstructions:Mix Amaretto, orange juice and sparkling wine in a jug. Add a strip orange zest to each glass, if you like.}{strIngredient7:}{strIngredient12:None}{strIngredient1:Amaretto}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Orange Peel}{strIngredient2:Orange Juice}{strIngredient10:None}{strIngredient6:}{strDrink:Amaretto fizz}{strIngredient5:}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:None}{strIngredient9:None}{strInstructions:Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Apple juice}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Carrot}{strIngredient10:None}{strIngredient6:None}{strDrink:Apple Karate}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Sour mix}{strIngredient9:None}{strInstructions:Add all ingredients into mixing glass, chill and strain into cocktail glass}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Jack Daniels}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Midori melon liqueur}{strIngredient10:None}{strIngredient6:None}{strDrink:Applejack}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Banana Liqueur}{strIngredient9:None}{strInstructions:Shake well in a shaker with ice.
+Strain in a martini glass.}{strIngredient7:}{strIngredient12:None}{strIngredient1:Hpnotiq}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:}{strIngredient2:Pineapple Juice}{strIngredient10:None}{strIngredient6:}{strDrink:Aquamarine}{strIngredient5:}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:None}{strIngredient9:None}{strInstructions:Place ice cubes in the hurricane glass . Add the 2 HEAPING shots of Absolute Vodka (Note: You can add as many shots of Absolute as you want!) Fill the rest of glass with the Arizona Icetea with lemon. Stir to mix using a spoon. Drink up and enjoy!!!!!!!}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Absolut Vodka}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Iced tea}{strIngredient10:None}{strIngredient6:None}{strDrink:Arizona Stingers}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Gold tequila}{strIngredient9:Pineapple}{strInstructions:Just mix in the shots of rum, vodka, and tequila. Add splashes of the three juices, heavy on the pineapple. Top off with grenadine. Crushed ice should already be in glass. Top off the glass with a pineapple wedge.}{strIngredient7:Grenadine}{strIngredient12:None}{strIngredient1:Vodka}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Orange juice}{strIngredient2:Malibu rum}{strIngredient10:None}{strIngredient6:Cream of coconut}{strDrink:Arizona Twister}{strIngredient5:Pineapple juice}{strIngredient8:Ice}
+
+{strIngredient14:None}{strIngredient3:Lime juice cordial}{strIngredient9:None}{strInstructions:Pour Vodka, Gin and lime cordial into glass, and top up with crushed ice. Wait for ice to melt slightly and sip without a straw.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Vodka}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Ice}{strIngredient2:Gin}{strIngredient10:None}{strIngredient6:None}{strDrink:Army special}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:maraschino liqueur}{strIngredient9:None}{strInstructions:Add all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass. Garnish with a cherry.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Gin}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:lemon juice}{strIngredient10:None}{strIngredient6:None}{strDrink:Aviation}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Banana liqueur}{strIngredient9:None}{strInstructions:Add 2 parts club soda or more or less to taste.
+
+Mix it all together and pour over a bunch of ice. Drink with a straw.}{strIngredient7:Sweet and Sour}{strIngredient12:None}{strIngredient1:Rum}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Grenadine}{strIngredient2:Dark Rum}{strIngredient10:None}{strIngredient6:Orange Juice}{strDrink:Bahama Mama}{strIngredient5:Pineapple Juice}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Pineapple Juice}{strIngredient9:None}{strInstructions:Serve over ice.}{strIngredient7:}{strIngredient12:None}{strIngredient1:Malibu Rum}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:}{strIngredient2:Banana Liqueur}{strIngredient10:None}{strIngredient6:}{strDrink:Banana Cream Pi}{strIngredient5:}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Lime Juice}{strIngredient9:None}{strInstructions:Shake ingredients with crushed ice
+Garnish with orange peel
+}{strIngredient7:}{strIngredient12:None}{strIngredient1:Gold rum}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Triple Sec}{strIngredient2:Orange Juice}{strIngredient10:None}{strIngredient6:}{strDrink:Bee's Knees}{strIngredient5:}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Gin}{strIngredient9:None}{strInstructions:Stir in mixing glass with ice and strain
+}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Orange Bitters}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Sweet Vermouth}{strIngredient2:Green Chartreuse}{strIngredient10:None}{strIngredient6:None}{strDrink:Bijou}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Passoa}{strIngredient9:None}{strInstructions:If each part is 1/2 oz then use about 2.5 cups of ice.
+
+Blend it all together. 
+Drink it with a big straw if you have one.
+
+}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Rum}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Blue Curacao}{strIngredient2:Dark Rum}{strIngredient10:None}{strIngredient6:Ice}{strDrink:Blue Hurricane}{strIngredient5:Sweet and Sour}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Fresh Lime Juice}{strIngredient9:None}{strInstructions:Add the Bombay Sapphire, Crème de Cassis and lime juice to a balloon glass and swirl well to mix.
+Fill the glass with good quality cubed ice.
+Top up with chilled and freshly opened Fever-Tree Ginger Beer.
+Gently stir to combine, top with a gently squeezed lime wedge and finish with a fresh ginger slice.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Gin}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Ginger beer}{strIngredient2:Creme de Cassis}{strIngredient10:None}{strIngredient6:Ginger}{strDrink:Bombay Cassis}{strIngredient5:Lime}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Lemon juice}{strIngredient9:None}{strInstructions:Prepare in a blender or shaker, serve in a highball glass on the rocks. Garnish with 1 slice of pineapple and one cherry.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Pineapple juice}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Grenadine}{strIngredient2:Passion fruit juice}{strIngredient10:None}{strIngredient6:None}{strDrink:Bora Bora}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Rye whiskey}{strIngredient9:None}{strInstructions:Stir with ice, strain, garnish and serve.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Campari}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Orange Peel}{strIngredient2:Sweet Vermouth}{strIngredient10:None}{strIngredient6:None}{strDrink:Boulevardier}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Cherry Heering}{strIngredient9:None}{strInstructions:Mix ingredients in a warmed mug and stir.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Hot Chocolate}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Green Chartreuse}{strIngredient10:None}{strIngredient6:None}{strDrink:Brigadier}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Bitters}{strIngredient9:None}{strInstructions:Half fill the glass with ice cubes. Crush the wormwood and add to ice. Pour rum, scotch and butters, then serve!}{strIngredient7:}{strIngredient12:None}{strIngredient1:151 proof rum}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Wormwood}{strIngredient2:Scotch}{strIngredient10:None}{strIngredient6:}{strDrink:Broadside}{strIngredient5:Ice}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Maraschino Liqueur}{strIngredient9:None}{strInstructions:Combine ingredients with ice and stir until well-chilled. Strain into a chilled cocktail glass.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Rye Whiskey}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Angostura Bitters}{strIngredient2:Dry Vermouth}{strIngredient10:None}{strIngredient6:None}{strDrink:Brooklyn}{strIngredient5:Maraschino Cherry}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Vodka}{strIngredient9:None}{strInstructions:Now stir vigorously and then pour over a large cup of ice. Now drink it with a straw and stir occasionally.}{strIngredient7:Sweet and sour}{strIngredient12:None}{strIngredient1:Gin}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:White rum}{strIngredient2:Tequila}{strIngredient10:None}{strIngredient6:Cherry Grenadine}{strDrink:Cherry Electric Lemonade}{strIngredient5:Triple Sec}{strIngredient8:Club soda}
+
+{strIngredient14:None}{strIngredient3:Angostura Bitters}{strIngredient9:None}{strInstructions:Cut the half lime in half again. Add the lime, falernum, and bitters to a rocks glass. Muddle. Add the rum. (Aged Barbados rum such as Plantation 5 Year is recommended). Add ice and stir. Float the blackstrap rum on top. Serve with a straw.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Lime}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Añejo rum}{strIngredient2:Falernum}{strIngredient10:None}{strIngredient6:None}{strDrink:Corn n Oil}{strIngredient5:blackstrap rum}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Lillet Blanc}{strIngredient9:None}{strInstructions:Shake, strain, straight up, cocktail glass rinsed with absinthe
+}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Gin}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Lemon Juice}{strIngredient2:Triple Sec}{strIngredient10:None}{strIngredient6:None}{strDrink:Corpse Reviver #2}{strIngredient5:Absinthe}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Cointreau}{strIngredient9:None}{strInstructions:Add all ingredients into cocktail shaker filled with ice. Shake well and double strain into large cocktail glass. Garnish with lime wheel.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Absolut Citron}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Cranberry juice}{strIngredient2:Lime juice}{strIngredient10:None}{strIngredient6:None}{strDrink:Cosmopolitan}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Lime}{strIngredient9:None}{strInstructions:Pour all ingredients in mixing glass half filled with ice, shake and strain into chilled Martini glass.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Cointreau}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Cranberry juice}{strIngredient2:Vodka}{strIngredient10:None}{strIngredient6:None}{strDrink:Cosmopolitan Martini}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:None}{strIngredient9:None}{strInstructions:Pour 1oz of Spiced Rum into a highball glass with ice. Fill with Ginger Ale.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Spiced rum}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Ginger ale}{strIngredient10:None}{strIngredient6:None}{strDrink:Cream Soda}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Cachaca}{strIngredient9:None}{strInstructions:Muddle the sugar into the lime wedges in an old-fashioned glass.
+Fill the glass with ice cubes.
+Pour the cachaca into the glass.
+Stir well.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:demerara Sugar}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Lime}{strIngredient10:None}{strIngredient6:None}{strDrink:Dark Caipirinha}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Olive Brine}{strIngredient9:None}{strInstructions:Pour the vodka, dry vermouth and olive brine into a cocktail shaker with a handful of ice and shake well.
+Rub the rim of a martini glass with the wedge of lemon.
+Strain the contents of the cocktail shaker into the glass and add the olive.
+A dirty Martini contains a splash of olive brine or olive juice and is typically garnished with an olive.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Vodka}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Lemon}{strIngredient2:Dry Vermouth}{strIngredient10:None}{strIngredient6:None}{strDrink:Dirty Martini}{strIngredient5:Olive}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Olive}{strIngredient9:None}{strInstructions:Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Gin}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Dry Vermouth}{strIngredient10:None}{strIngredient6:None}{strDrink:Dry Martini}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Pineapple Syrup}{strIngredient9:None}{strInstructions:Shake all ingredients.
+Double strain in a chilled double old fashioned glass with abig ice cube.
+Garnish with a couple of lavender sprigs}{strIngredient7:Lavender}{strIngredient12:None}{strIngredient1:Pisco}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:St. Germain}{strIngredient2:Lime Juice}{strIngredient10:None}{strIngredient6:Pepper}{strDrink:Duchamp's Punch}{strIngredient5:Angostura Bitters}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Coffee liqueur}{strIngredient9:None}{strInstructions:To ensure that your pork fat is just as delicious as theirs, here’s their adobo marinade and what to do with it (you’ll also need a rack of ribs):
+
+4 ancho chiles, 8 guajillo chiles and 4 chipotle chiles, plus 4 cloves roasted garlic, half a cup of cider vinegar, a quarter teaspoon of Mexican oregano, 1 teaspoon of ground black pepper, a whole clove, a quarter teaspoon of ground cinnamon and a half teaspoon of ground cumin.
+
+Toast the dried chiles and soak in water for at least an hour until they are rehydrated. Drain and discard the soaking liquid. Combine the soaked chiles with the remaining ingredients and purée until smooth.
+
+Cold smoke a rack of baby back pork ribs by taking a large hotel pan with woodchips on one side and charcoal on the other. Place another, smaller, pan with pork ribs, above the charcoal/woodchip pan. Ignite the charcoal, being careful to not ignite the woodchips. Cover both pans with foil and allow to smoke for 10-15 minutes, until desired level of smoke is achieved, then coat with adobo marinade and wrap in tin foil prior to placing ribs in a 300 degree oven for 7 hours. When the ribs have cooled, strain off the fat and use for the infusion.
+
+If you’re having a hard time coming up to the same kind of volume of fat, make up the balance with pork lard from a butcher. To get the same depth of flavor without the ribs, heat up the fat in a pot with a few spoons of the marinade.
+
+Once you’ve got your tub of seasoned pork fat in cooled liquid form, pour equal amounts of Ilegal Joven mezcal and fat into a sealable container. Seal the container and give it a really good shake, then put it in the freezer overnight. When the whole thing is separated and congealed, pour it through a fine mesh chinoise. If you don’t have a chinoise, try a fine mesh strainer, or if you don’t have one of those, try spooning off most of the fat. There will be some beads of orange fat left in the strained mezcal: run that through a few layers of cheesecloth (or coffee filters in a pinch) to get rid of the last of it.
+
+The mezcal is now ready for drinking, straight-up or in a cocktail. 
+
+Habanero tincture
+
+Slice habaneros and add 2 ounces Ilegal Joven mezcal.
+Allow to sit overnight or until desired level of heat is achieved.
+Cocktail
+
+Combine mezcal and chocolate liqueur in a mixing glass with ice and stir for 45 seconds.
+Strain into chilled coupe.
+Carefully "sink" the coffee liqueur down the inside of the coupe over a spoon.
+Garnish with 5 drops habanero tincture.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Mezcal}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Chocolate liqueur}{strIngredient10:None}{strIngredient6:None}{strDrink:Empellón Cocina's Fat-Washed Mezcal}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Sugar syrup}{strIngredient9:None}{strInstructions:Pour ingredients into shaker filled with ice, shake vigorously, and strain into chilled martini glass}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Vodka}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Kahlua}{strIngredient10:None}{strIngredient6:None}{strDrink:Espresso Martini}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Espresso}{strIngredient9:None}{strInstructions:Mix together in a cocktail glass. Garnish with some choclate powder and coffee beans}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Rum}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Coffee}{strIngredient2:Vanilla syrup}{strIngredient10:None}{strIngredient6:None}{strDrink:Espresso Rumtini}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Blue Curacao}{strIngredient9:None}{strInstructions:Pour the Sambuca and Kahlua into the Cocktail Glass and give the drinker a straw. Pour the Baileys and Blue Curacao into two sepsrate shot glasses either side of the cocktail glass. Set light the concotion in the cocktail glass and start to drink through the straw (this drink should be drunk in one) , as the bottom of the glass is reached put out the fire by pouring the Baileys and Blue Curacao into the cocktail glass and keep drinking till it's all gone!!}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Kahlua}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Baileys irish cream}{strIngredient2:Sambuca}{strIngredient10:None}{strIngredient6:None}{strDrink:Flaming Lamborghini}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:pineapple juice}{strIngredient9:None}{strInstructions:Pour all ingredients into shaker with ice cubes. Shake well and strain into a chilled cocktail glass. Squeeze oil from lemon peel onto the drink.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Vodka}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Raspberry Liqueur}{strIngredient10:None}{strIngredient6:None}{strDrink:French Martini}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Sweet Vermouth}{strIngredient9:None}{strInstructions:Add ice to a shaker and pour in all ingredients.
+Using a bar spoon, stir 40 to 45 revolutions or until thoroughly chilled.
+Strain into a martini glass or over ice into a rocks glass. Garnish with orange twist.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Gin}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Orange Peel}{strIngredient2:Lillet}{strIngredient10:None}{strIngredient6:None}{strDrink:French Negroni}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Galliano}{strIngredient9:None}{strInstructions:Shake well and serve in a cocktail glass. This is a home cocktail of American/Internet Bar del Pozzo, Pavia, Italy.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Peach Vodka}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Sirup of roses}{strIngredient2:Lemon juice}{strIngredient10:None}{strIngredient6:None}{strDrink:Gagliardo}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Sugar Syrup}{strIngredient9:None}{strInstructions:Add all the ingredients to a shaker and fill with ice.
+
+Shake, and strain into a chilled cocktail glass or an Old Fashioned glass filled with fresh ice.
+
+Garnish with a lime wheel.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Gin}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Lime}{strIngredient2:Lime Juice}{strIngredient10:None}{strIngredient6:None}{strDrink:Gimlet}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Sugar Syrup}{strIngredient9:None}{strInstructions:Muddle Basil leaves (~ 10) with Suggar Syrup in a shaker. Add Gin an Lemon Juice.
+Filter and serve in a tumbler with ice}{strIngredient7:}{strIngredient12:None}{strIngredient1:Gin}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Basil}{strIngredient2:Lemon Juice}{strIngredient10:None}{strIngredient6:}{strDrink:Gin Basil Smash}{strIngredient5:}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:lemon}{strIngredient9:None}{strInstructions:Half-fill a tall glass with ice. Mix the gin and Grenadine together and pour over the ice. Add the lime or lemon juice and top off with soda water. Decorate the glass with lime and/or lemon slices.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Gin}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Soda Water}{strIngredient2:Grenadine}{strIngredient10:None}{strIngredient6:None}{strDrink:Gin Rickey}{strIngredient5:Lime}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:None}{strIngredient9:None}{strInstructions:Add the vodka to a Collins glass filled with ice.
+Top with grapefruit juice and stir.
+
+}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Vodka}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Grapefruit Juice}{strIngredient10:None}{strIngredient6:None}{strDrink:Greyhound}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Lemon Juice}{strIngredient9:None}{strInstructions:Shake ingredients with crushed ice
+}{strIngredient7:}{strIngredient12:None}{strIngredient1:White Rum}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:}{strIngredient2:Honey}{strIngredient10:None}{strIngredient6:}{strDrink:Honey Bee}{strIngredient5:}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Sugar Syrup}{strIngredient9:None}{strInstructions:Put the Bombay Sapphire, Martini Bianco, sugar syrup & blackberries in a cocktail shaker with lots of ice and shake vigorously before pouring into a balloon glass, topping up with lemonade and garnishing with a wedge of orange.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Vermouth}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Lemonade}{strIngredient2:Maraschino Cherry}{strIngredient10:None}{strIngredient6:None}{strDrink:Hunter's Moon}{strIngredient5:Blackberries}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Aperol}{strIngredient9:None}{strInstructions:Shake with ice and strain into cocktail glass.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Lime juice}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Gin}{strIngredient10:None}{strIngredient6:None}{strDrink:Imperial Cocktail}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Vodka}{strIngredient9:None}{strInstructions:Pour Irish Cream, Vodka, and Bourbon in a glass. Add some ice and mix in the orange juice.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Baileys irish cream}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Orange juice}{strIngredient2:Bourbon}{strIngredient10:None}{strIngredient6:None}{strDrink:Irish Curdling Cow}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Grenadine}{strIngredient9:None}{strInstructions:Wet glass, dip rim in sugar. Then add Ice. Then add everything else. It's that simple!}{strIngredient7:Soda water}{strIngredient12:None}{strIngredient1:Gin}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Lime juice}{strIngredient2:Vodka}{strIngredient10:None}{strIngredient6:Sugar syrup}{strDrink:Jitterbug}{strIngredient5:Sugar}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Lemon}{strIngredient9:None}{strInstructions:Shake and strain into a chilled cocktail glass rimmed with sugar.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Absolut Vodka}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Cointreau}{strIngredient10:None}{strIngredient6:None}{strDrink:Lemon Drop}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Cranberry juice}{strIngredient9:None}{strInstructions:Add rum & trister then, add cranberry jucie,stir}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Malibu rum}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Tropicana}{strIngredient10:None}{strIngredient6:None}{strDrink:Malibu Twister}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Angostura bitters}{strIngredient9:None}{strInstructions:Stirred over ice, strained into a chilled glass, garnished, and served up.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Sweet Vermouth}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Ice}{strIngredient2:Bourbon}{strIngredient10:None}{strIngredient6:Orange peel}{strDrink:Manhattan}{strIngredient5:Maraschino cherry}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Maraschino Liqueur}{strIngredient9:None}{strInstructions:Add all ingredients to a mixing glass and fill with ice.
+
+Stir until chilled, and strain into a chilled coupe glass.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Gin}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Angostura Bitters}{strIngredient2:Sweet Vermouth}{strIngredient10:None}{strIngredient6:None}{strDrink:Martinez 2}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Triple sec}{strIngredient9:None}{strInstructions:Stir all ingredients (except cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Gin}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Orange bitters}{strIngredient2:Dry Vermouth}{strIngredient10:None}{strIngredient6:None}{strDrink:Martinez Cocktail}{strIngredient5:Cherry}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Olive}{strIngredient9:None}{strInstructions:Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Gin}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Dry Vermouth}{strIngredient10:None}{strIngredient6:None}{strDrink:Martini}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Maraschino liqueur}{strIngredient9:None}{strInstructions:Shake and strain into a chilled large cocktail glass}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Light rum}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Grenadine}{strIngredient2:Pineapple juice}{strIngredient10:None}{strIngredient6:None}{strDrink:Mary Pickford}{strIngredient5:Maraschino cherry}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Daiquiri mix}{strIngredient9:None}{strInstructions:First: Mix pina colada with 2.5 oz. of rum with ice(set aside). Second: Mix daiquiri with 2.5 oz. of rum with ice. Third: While frozen, add pina colda mix then daiquiri mix in glass (Making sure they do not get mixed together).}{strIngredient7:None}{strIngredient12:None}{strIngredient1:151 proof rum}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Pina colada mix}{strIngredient10:None}{strIngredient6:None}{strDrink:Miami Vice}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Cream}{strIngredient9:None}{strInstructions:If available, rim cocktail (Martini) glass with sugar syrup then dip into chocolate flakes or powder. Add ingredients into shaker with ice. Shake well then strain into cocktail glass.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Baileys irish cream}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:White Creme de Menthe}{strIngredient10:None}{strIngredient6:None}{strDrink:Midnight Mint}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Sugar}{strIngredient9:None}{strInstructions:Muddle mint leaves with sugar and lime juice. Add a splash of soda water and fill the glass with cracked ice. Pour the rum and top with soda water. Garnish and serve with straw.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Light rum}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Mint}{strIngredient2:Lime}{strIngredient10:None}{strIngredient6:None}{strDrink:Mojito}{strIngredient5:Soda water}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Dark rum}{strIngredient9:None}{strInstructions:Put mint with lemon juice in a glas, mash the mint with a spoon, ice, rum & fill up with club soda. Top it with Angostura.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Mint}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Club soda}{strIngredient2:Lemon juice}{strIngredient10:None}{strIngredient6:None}{strDrink:Mojito #3}{strIngredient5:Angostura bitters}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Ginger Beer}{strIngredient9:None}{strInstructions:Fill glass with ice
+Pour Gin and Lime Juice
+Fill glass with Ginger Beer
+Garnish with Cucumer and Lime slice}{strIngredient7:}{strIngredient12:None}{strIngredient1:Gin}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Cucumber}{strIngredient2:Lime Juice}{strIngredient10:None}{strIngredient6:}{strDrink:Munich Mule}{strIngredient5:lemon}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Lemon juice}{strIngredient9:None}{strInstructions:Serve in a chilled cocktail glass. Lemon and sugar the rim. Stir and Strain.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Absolut Citron}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Club soda}{strIngredient2:Grand Marnier}{strIngredient10:None}{strIngredient6:None}{strDrink:New York Lemonade}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Butterscotch schnapps}{strIngredient9:None}{strInstructions:Just mix it all together.
+It's meant to be a shot, but it works just fine as a proper adult-sized drink over lots of ice.
+
+Tastes like an oatmeal cookie.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Kahlua}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Jagermeister}{strIngredient2:Bailey}{strIngredient10:None}{strIngredient6:None}{strDrink:Oatmeal Cookie}{strIngredient5:Goldschlager}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Sugar}{strIngredient9:None}{strInstructions:Place sugar cube in old fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolved.
+Fill the glass with ice cubes and add whiskey.
+
+Garnish with orange twist, and a cocktail cherry.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Bourbon}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Water}{strIngredient2:Angostura bitters}{strIngredient10:None}{strIngredient6:None}{strDrink:Old Fashioned}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Dry Vermouth}{strIngredient9:None}{strInstructions:Chill cocktail glass. Add ingredients to a mixing glass, and fill 2/3 full with ice. Stir about 20 seconds. Empty cocktail glass and strain into the glass. Garnish with a twist of lemon peel.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Rye whiskey}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Campari}{strIngredient10:None}{strIngredient6:None}{strDrink:Old Pal}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Sugar syrup}{strIngredient9:None}{strInstructions:Place some ice cubes in a large tumbler or highball glass, add lemon juice, orange juice, sugar syrup, and stir well. Top up with cold soda water, serve with a drinking straw.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Lemon juice}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Soda water}{strIngredient2:Orange juice}{strIngredient10:None}{strIngredient6:None}{strDrink:Orangeade}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:None}{strIngredient9:None}{strInstructions:Stir together and serve over ice.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Grape Soda}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Tequila}{strIngredient10:None}{strIngredient6:None}{strDrink:Paloma}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Passion fruit juice}{strIngredient9:None}{strInstructions:Pour all ingredients into a glass and stir. Garnish with half a passion fruit piece.}{strIngredient7:}{strIngredient12:None}{strIngredient1:Vodka}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:}{strIngredient2:Sugar Syrup}{strIngredient10:None}{strIngredient6:}{strDrink:Passion Fruit Martini}{strIngredient5:}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Lime Juice}{strIngredient9:None}{strInstructions:Shake, strain, up, cocktail glass}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Gin}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Angostura Bitters}{strIngredient2:Orange Curacao}{strIngredient10:None}{strIngredient6:None}{strDrink:Pegu Club}{strIngredient5:Orange Bitters}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Honey syrup}{strIngredient9:None}{strInstructions:Shake blended Scotch, lemon juice, honey syrup and ginger syrup with ice. Strain over large ice in chilled rocks glass. Float smoky Scotch on top (be sure to use a smoky Scotch such as an Islay single malt). Garnish with candied ginger.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Blended Scotch}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Ginger Syrup}{strIngredient2:Lemon Juice}{strIngredient10:None}{strIngredient6:None}{strDrink:Penicillin}{strIngredient5:Islay single malt Scotch}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Sugar}{strIngredient9:None}{strInstructions:Vigorously shake and strain contents in a cocktail shaker with ice cubes, then pour into glass and garnish with bitters.[1]}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Pisco}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Ice}{strIngredient2:Lemon juice}{strIngredient10:None}{strIngredient6:None}{strDrink:Pisco Sour}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Ginger ale}{strIngredient9:None}{strInstructions:Mix sugar syrup with lemon juice in a tall glass. Fill up with ginger ale.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Sugar syrup}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Lemon juice}{strIngredient10:None}{strIngredient6:None}{strDrink:Rail Splitter}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Tonic Water}{strIngredient9:None}{strInstructions:1) Add the Bombay Sapphire, Blue Curacao, rosemary sprig and gently squeezed lemon wedge to a balloon glass. Swirl well to combine.
+2) Fill with cubed ice and top with the Fever-Tree Light Tonic Water.
+3) Gently fold with a bar spoon to mix.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Gin}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Rosemary}{strIngredient2:Blue Curacao}{strIngredient10:None}{strIngredient6:None}{strDrink:Rosemary Blue}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Grenadine}{strIngredient9:None}{strInstructions:Pour gin and cranberry into a highball filled with ice cubes. Add grenadine and stir.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Gin}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Cranberry juice}{strIngredient10:None}{strIngredient6:None}{strDrink:Ruby Tuesday}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Amaretto}{strIngredient9:None}{strInstructions:Add ice, toffee gin, chocolate liqueur and Amaretto to a cocktail shaker and shake vigorously. 
+Pour the chocolate syrup into a saucer and dip the top of a martini glass into the sauce. Grate some of the Willie\'s sea salt chocolate into another saucer and dip the coated glass, so the flakes stick to the sauce, creating a chocolate rim!
+Pour the contents of the shaker into your chocolatey glass and sprinkle with more grated chocolate - enjoy!  }{strIngredient7:None}{strIngredient12:None}{strIngredient1:Gin}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Chocolate Sauce}{strIngredient2:Chocolate liqueur}{strIngredient10:None}{strIngredient6:None}{strDrink:Salted Toffee Martini}{strIngredient5:Salted Chocolate}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Vodka}{strIngredient9:None}{strInstructions:Mix lemonade and water according to instructions on back of can. If the instructions say to add 4 1/3 cans of water do so. Mix into pitcher. Add 1 1/2 cup of Vodka (Absolut). Mix well. Pour into glass of crushed ice. Excellent!}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Lemonade}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Water}{strIngredient10:None}{strIngredient6:None}{strDrink:Shark Attack}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Rum}{strIngredient9:None}{strInstructions:Gently warm 60g golden caster sugar in a pan with 30ml water and 1 tbsp allspice. Cook gently until the sugar has dissolved, then leave the mixture to cool. Strain through a sieve lined with a coffee filter (or a double layer of kitchen paper).
+
+Pour 60ml of the spiced syrup into a cocktail shaker along with 200ml rum and 90ml lime juice. Shake with ice and strain between six flute glasses. Top up with 600ml champagne and garnish each with an orange twist.}{strIngredient7:}{strIngredient12:None}{strIngredient1:Sugar}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Lime Juice}{strIngredient2:Allspice}{strIngredient10:None}{strIngredient6:Orange spiral}{strDrink:Spice 75}{strIngredient5:Champagne}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Soda Water}{strIngredient9:None}{strInstructions:Build into glass over ice, garnish and serve.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Prosecco}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Aperol}{strIngredient10:None}{strIngredient6:None}{strDrink:Spritz Veneziano}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Grenadine}{strIngredient9:None}{strInstructions:Pour the tequila and orange juice into glass over ice. Add the grenadine, which will sink to the bottom. Stir gently to create the sunrise effect. Garnish and serve.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Tequila}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Orange juice}{strIngredient10:None}{strIngredient6:None}{strDrink:Tequila Sunrise}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Light rum}{strIngredient9:None}{strInstructions:Pour ingredients into glass, and drop in a blue whale! The blue whale isn't really necessary, but it makes the drink more "fun".}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Creme de Cacao}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Blue Curacao}{strIngredient10:None}{strIngredient6:None}{strDrink:The Evil Blue Thing}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Cranberry Juice}{strIngredient9:None}{strInstructions:Fill glass with ice
+Pour in The Irishman and Disaronno
+Fill to the top with Cranberry Juice
+Garnish with a slice of lemon…Enjoy!}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Irish Whiskey}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Amaretto}{strIngredient10:None}{strIngredient6:None}{strDrink:The Jimmy Conway}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Lime Juice}{strIngredient9:None}{strInstructions:Shake with ice and strain into a cocktail glass.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Green Chartreuse}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Maraschino Liqueur}{strIngredient10:None}{strIngredient6:None}{strDrink:The Last Word}{strIngredient5:None}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Rosso Vermouth}{strIngredient9:None}{strInstructions:1) Squeeze two lime wedges into a balloon glass then add the cordial, Bombay Sapphire and MARTINI Rosso Vermouth, swirl to mix.
+
+2) Fully fill the glass with cubed ice and stir to chill.
+
+3) Top with Fever-Tree Ginger Ale and gently stir again to combine.
+
+4) Garnish with a snapped ginger slice and an awoken mint sprig.}{strIngredient7:Mint}{strIngredient12:None}{strIngredient1:Gin}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:Tonic Water}{strIngredient2:Elderflower cordial}{strIngredient10:None}{strIngredient6:Ginger}{strDrink:The Laverstoke}{strIngredient5:Lime}{strIngredient8:None}
+
+{strIngredient14:None}{strIngredient3:Green Chartreuse}{strIngredient9:None}{strInstructions:Stir over ice. Strain into chilled glass. Cut a wide swath of orange peel, and express the orange oils over the drink. Discard orange twist.}{strIngredient7:None}{strIngredient12:None}{strIngredient1:Irish Whiskey}{strIngredient15:None}{strIngredient11:None}{strIngredient13:None}{strIngredient4:None}{strIngredient2:Sweet Vermouth}{strIngredient10:None}{strIngredient6:None}{strDrink:Tipperary}{strIngredient5:None}{strIngredient8:None}
+
