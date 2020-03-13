@@ -16,7 +16,8 @@ for idd in drink_id:
         keys = res.keys()
         for key in keys:
             if ((key=='strDrink') or (key == 'strInstructions') or ('strIngredient' in key)):
-               outf.write('{'+str(key)+':'+str(res[key])+'}')
+               if str(res[key]) != 'None':
+                  outf.write('{'+str(key)+':'+str(res[key])+'}')
         outf.write('\n')  
         outf.write('\n')
 #textgen = textgenrnn()
